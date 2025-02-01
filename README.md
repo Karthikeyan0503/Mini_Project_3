@@ -1,5 +1,19 @@
 # Crop_Production_Prediction
 
+## Technologies Used
+- **Programming Language:** Python
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Streamlit
+- **Visualization Tools:** Matplotlib, Seaborn
+- **Web Framework:** Streamlit
+- **Dataset Source:** FAOSTAT Agricultural Data
+
+**Key Use Cases:**
+1. Food Security and Planning
+2. Agricultural Policy Development
+3. Supply Chain Optimization
+4. Market Price Forecasting
+5. Precision Farming
+
 Predicting Crop Production Based on Agricultural Data:
 
 The main objective of this project is to predict crop-yield which can be extremely useful to farmers in planning for harvest and sale of grain. This project focuses on implementing a machine learning algorithm that gives better prediction of suitable crop for the corresponding region using previously collected datasets. This project aims to predict production based on agricultural data.
@@ -20,19 +34,6 @@ Preprocessing:
 
 Before training machine learning models, the dataset underwent preprocessing steps to ensure its suitability for model training. This included handling missing values, normalizing features, and encoding categorical variables. Python libraries such as pandas and scikit-learn were utilized for these preprocessing tasks.
 
-**Key Use Cases:**
-1. Food Security and Planning
-2. Agricultural Policy Development
-3. Supply Chain Optimization
-4. Market Price Forecasting
-5. Precision Farming
-
-## Technologies Used
-- **Programming Language:** Python
-- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Streamlit
-- **Visualization Tools:** Matplotlib, Seaborn
-- **Web Framework:** Streamlit
-- **Dataset Source:** FAOSTAT Agricultural Data
 
 Model Selection and Training:
 
